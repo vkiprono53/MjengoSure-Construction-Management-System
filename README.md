@@ -17,9 +17,14 @@ One is able to Create, Read, Update and Delete(CRUD) Roles, Employees, Projects,
      </ul>
      <br>
      <li>bootstrap-NiceAdmin Theme</li>
-      <b>Login: </b>       
-      <img src="
-        /Screenshots/Login.png"> 
+      <br>
+      <b>Login Page: </b>       
+      <img src="https://github.com/vkiprono53/MjengoSure-Construction-Management-System/blob/master/Screenshots/Login.png"> 
+      <br>
+      <b>Dashoard Page: </b>       
+      <img src="https://github.com/vkiprono53/MjengoSure-Construction-Management-System/blob/master/Screenshots/Dashboard.png">
+      <b>Managing Role Page: </b>       
+      <img src="https://github.com/vkiprono53/MjengoSure-Construction-Management-System/blob/master/Screenshots/Role.png">  
       <b>Other Requirements</b>
       <ul> 
    <li> wildfly JBoss server version 13.0.0 final</li>
